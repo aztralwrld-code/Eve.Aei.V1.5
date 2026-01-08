@@ -1,0 +1,8 @@
+{
+  "name": "EVE: AEI Companion",
+  "description": "An Agentic, Empathic Intelligence (AEI) interface featuring internal state visualization, value tension reasoning, and adaptive personality settings powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
